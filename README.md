@@ -3,4 +3,4 @@ HTML &amp; CSS Design and Build Websites in PDF Format By Jon Duckett
 
 
 
-<b><strong>If this repository helps you in anyway, show your love  by putting a star on this project</strong></b>
+<large><strong>If this repository helps you in anyway, show your love  by putting a star on this project</strong></large>
